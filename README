@@ -1,4 +1,6 @@
-This is a simple react app -> no redux
+This is a simple react single page app -> no redux
+
+To run this locally:
 
 If live-server and babel installed globally:
 1) Run babble:
