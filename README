@@ -1,3 +1,5 @@
+This is a simple react app -> no redux
+
 If live-server and babel installed globally:
 1) Run babble:
 babel <source_file> --out-file=public/scripts/app.js --presets=env,react --watch --plugins transform-class-properties
