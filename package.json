@@ -30,5 +30,8 @@
     "validator": "^9.4.0",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^3.1.11"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
   }
 }
